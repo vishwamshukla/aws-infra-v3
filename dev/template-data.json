@@ -1,0 +1,4 @@
+{
+    "ImageId":"ami-",
+    "InstanceType": "t2.micro"
+}
